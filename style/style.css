@@ -106,6 +106,7 @@ body {
   font-size: inter;
   font-weight: semi-bold;
   padding-inline: 20px;
+  border-radius: 0px;
 }
 
 .hero {
@@ -163,12 +164,14 @@ body {
   background:
     radial-gradient(circle at 50% 50%, #22c55e 0, #22c55e 35%, transparent 36%),
     radial-gradient(circle at 50% 50%, rgba(22, 163, 74, 0.18) 0, transparent 70%);
+
 }
 
+
 .hero-heading {
-  font-size: 3rem;
+  font-size: 48px;
   line-height: 1.1;
-  margin-bottom: 0.9rem;
+  margin-bottom: 14.4px;
 }
 
 .hero-heading span {
@@ -241,7 +244,6 @@ body {
   height: auto;
   display: block;
 }
-/* ------------------------------- */
 
 .problem-card h3 {
   font-size: 1.02rem;
@@ -366,10 +368,9 @@ body {
 }
 
 .footer-social-title {
-  font-size: 0.9rem;
-  margin-bottom: 0.4rem;
+  font-size: 20px;
+  margin-bottom: 10px;
   text-align: center;
-  margin-bottom: 0px;
 }
 
 .footer-social {
