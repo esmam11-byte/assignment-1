@@ -82,7 +82,7 @@ body {
 }
 
 .kv-logo img {
-  height: 60px;
+  height: 3.75rem;
   width: 139px;
   display: block;
 }
@@ -355,6 +355,7 @@ body {
   color: #e5e7eb;
   padding-top: 2.8rem;
   padding-bottom: 2rem;
+ 
 }
 
 .footer-inner {
